@@ -10,9 +10,8 @@
 src = http GET from "whatthecommit.com/index.txt"
 
 #### usage:
-	``` commit-wtf commit ``` 
-		or 
-	``` commit-wtf ```
+``` commit-wtf commit ``` 
+``` commit-wtf ```
 ##### this will gen a git clone -m message where message is a funny expression to message
 
 
